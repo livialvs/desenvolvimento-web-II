@@ -1,5 +1,1 @@
-<h1 align="center">Desenvolvimento Web II 🌟</h1>
-
-<br>
-
-<h2 align="center">Repositório destinado a matéria Desenvolvimento Web II, ministrada pelo professor Claudio Etelvino.</h2>
+<h2 align="center">Atividade avaliativa utilizando Node, criando três rotas, utilizando mecanismo de templates EJS e incorporando variáveis no HTML.</h2>
