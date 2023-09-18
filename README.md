@@ -1,0 +1,1 @@
+<h2 align="center">Atividade referente a lista de exercícios em JavaScript.</h2>
