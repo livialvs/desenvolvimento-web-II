@@ -1,1 +1,1 @@
-<h2 align="center">Atividade avaliativa utilizando Node, criando três rotas, utilizando mecanismo de templates EJS e incorporando variáveis no HTML.</h2>
+<h2 align="center">Atividade avaliativa usando Node.js, com o objetivo de criar duas tabelas e fazer um CRUD.
